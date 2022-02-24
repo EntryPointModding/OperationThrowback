@@ -1,4 +1,6 @@
-     - revert the manager not having keycard on rookie update    General/Gameplay:
+pre lakehouse shit:
+
+    General/Gameplay:
         (- remove camera update)
         - 14 ammo thumper
         - remove heavy weapons mastery fix
@@ -7,6 +9,13 @@
         - add back keycard doors staying permanently unlocked
         - old disguises
         - invisible suppressors
+        (- revert level cap back to 60-80)
+        - remove the items on the player tabs above the ready button
+        - remove skins
+        - remove daily challenge tab
+        - remove mm20
+        - remove secret alt tracks
+        - revert gold texture to the original darker yellow
 
     Menu: 
         - "The Black Dusk"
@@ -17,9 +26,20 @@
         - remove speedrun mode
         - misspell epilogue
         - old menu loading screen
-        - FAQs
-        - "training grounds" tab
+        - rename "help/guides" tab to "FAQs"
+        - rename "extras" to "training grounds"
         - remove sunset cutscene
+        - remove all expansions and expansions tab
+        - add back dev notes mini tab
+        - add back send feedback mini tab
+        - change back the deposit mission tab
+        - change back the blacksite mission tab
+
+    Shadow War:
+        - revert s97 accuracy debuff
+        - remove all maps besides montreal
+        - remove mm20
+        - add back "early access"
 
     Freelancer:
         - revert the freelancer mission to only stealth, add back old stealth music
@@ -27,11 +47,13 @@
     Deposit:
         - colored archives (front left: red - front right: green - behind front left: yellow - behind front right:  orange - back left: orange - middle: lavender blueish - back right: green)
         - add back the deposit "mission guide"
-        - revert the manager not having keycard on rookie update
+        - remove the safe in deposit rookie
+        - add back the phone ringing
 
     Financier:
 
     Withdrawal:
         - add back the withdrawal vault keycard door
 
-    Blacksite:
+    Blacksite: 
+        - add back the cell blocks cam op/cell opener keycard door
